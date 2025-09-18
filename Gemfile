@@ -3,6 +3,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'sqlite3'
-gem 'pry'
-gem 'rubocop'
+gem "pry"
+gem "rubocop"
+gem "sqlite3"
